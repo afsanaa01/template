@@ -1,0 +1,198 @@
+@media (max-width: 500px) {
+    .find-button{
+        width: 45%;
+        background: tomato;
+        color: white;
+        padding: 20px 0px;
+        border-radius: 50px;
+        border: none;
+        font-weight: bolder;
+        font-size: 10px;
+        margin-top: 10px;
+        padding-bottom: 40px;
+    }
+    #services .icon{
+        font-size: 40px;
+        color: tomato;
+        padding-top: 100px;
+        margin-bottom: 40px;
+        padding-bottom: 50px;
+    }
+    .back-image .text h1{
+        font-size: 35px;
+    }
+    .back-image .text p{
+        font-size: 15px;
+        color: white;
+        opacity: 0.7;
+    }
+    .line1{
+        background-color: tomato;
+        width: 55px;
+        height: 3px;
+        margin-left: 40%;
+        margin-top: 20px;
+    }
+    .text2 p{
+        padding-top: 10px;
+        opacity: 0.7;
+    }
+    .start-button{
+        width: 25%;
+        background: white;
+        color: black;
+        padding: 20px 0px;
+        border-radius: 50px;
+        border: none;
+        font-weight: bolder;
+        font-size: 10px;
+        margin-left: 38%;
+        margin-bottom: 100px;
+    }
+    #services .icon{
+        font-size: 40px;
+        color: tomato;
+        padding-top: 20px;
+        margin-bottom: 0px;
+    }
+    .text2 .line2{
+        background-color: white;
+        width: 55px;
+        height: 3px;
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    #services .line3{
+        background-color: tomato;
+        width: 55px;
+        height: 3px;
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    #part5 .text5 h2{
+        font-size: 20px;
+    }
+    .download-custom{
+        width: 30%;
+        background: white;
+        color: black;
+        padding: 20px 0px;
+        border-radius: 50px;
+        border: none;
+        font-weight: bolder;
+        font-size: 10px;
+        margin-left: 35%;
+        margin-bottom: 200px;
+    }
+    #contact .title .divider{
+        background-color: rgb(235, 54, 22);
+        max-width: 55px;
+        height: 3px;
+        text-align: center;
+        margin-left: 44%;
+    }
+    #contact .title p{
+        max-width: 50%;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+    }
+    
+}
+@media (max-width: 900px) {
+    .find-button{
+        width: 65%;
+        background: tomato;
+        color: white;
+        padding: 20px 0px;
+        border-radius: 50px;
+        border: none;
+        font-weight: bolder;
+        font-size: 10px;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+    #services .icon{
+        font-size: 40px;
+        color: tomato;
+        padding-top: 100px;
+        margin-bottom: 40px;
+        padding-bottom: 50px;
+    }
+    .back-image .text h1{
+        font-size: 35px;
+    }
+    .back-image .text p{
+        font-size: 15px;
+        color: white;
+        opacity: 0.7;
+    }
+    .line1{
+        background-color: tomato;
+        width: 55px;
+        height: 3px;
+        margin-left: 40%;
+        margin-top: 20px;
+    }
+    .text2 p{
+        padding-top: 10px;
+        opacity: 0.7;
+    }
+    .start-button{
+        width: 25%;
+        background: white;
+        color: black;
+        padding: 20px 0px;
+        border-radius: 50px;
+        border: none;
+        font-weight: bolder;
+        font-size: 10px;
+        margin-left: 38%;
+        margin-bottom: 100px;
+    }
+    #services .icon{
+        font-size: 40px;
+        color: tomato;
+        padding-top: 40px;
+        margin-bottom: 0px;
+    }
+    .text2 .line2{
+        background-color: white;
+        width: 55px;
+        height: 3px;
+        margin-left: 43%;
+        margin-top: 20px;
+    }
+    #services .line3{
+        background-color: tomato;
+        width: 55px;
+        height: 3px;
+        margin-left: 45%;
+        margin-top: 20px;
+    }
+    #part5 .text5 h2{
+        font-size: 20px;
+    }
+    .download-custom{
+        width: 30%;
+        background: white;
+        color: black;
+        padding: 20px 0px;
+        border-radius: 50px;
+        border: none;
+        font-weight: bolder;
+        font-size: 10px;
+        margin-left: 35%;
+        margin-bottom: 200px;
+    }
+    #contact .title .divider{
+        background-color: rgb(235, 54, 22);
+        max-width: 55px;
+        height: 3px;
+        text-align: center;
+        margin-left: 44%;
+    }
+    #contact .title p{
+        max-width: 50%;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+    }
